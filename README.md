@@ -1,7 +1,7 @@
 Hi 👋 My name is Sravan Kumar
 =============================
 
-Web developer @Rakuten
+Frontend developer @Amazon
 ----------------------
 
 * 🌍  I'm based in Hyderabad
